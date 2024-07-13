@@ -11,7 +11,7 @@ const Home = () => {
             text-center"> AI-Powered Prompts</span>
         </h1>
         <p className="desc text-center">
-          Promptopia is an open source AI prompting
+          IdeaPalette is an open source AI prompting
           tool for modern world to discover, create and Share
           creative prompts.
         </p>
